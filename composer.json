@@ -6,7 +6,7 @@
         "ext-curl": "*"
     },
     "autoload": {
-        "classmap": [""],
-        "files": ["kyHelpers.php"]
+        "classmap": ["src"],
+        "files": ["src/kyHelpers.php"]
     }
 }
