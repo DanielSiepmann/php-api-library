@@ -102,14 +102,6 @@ abstract class kyObjectBase
     }
 
     /**
-     * Creates new object. Compatible with method chaining.
-     */
-    public static function createNew()
-    {
-        return new static();
-    }
-
-    /**
      * Returns object controller.
      *
      * @return string
